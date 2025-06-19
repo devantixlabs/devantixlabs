@@ -4,18 +4,18 @@
 
 We are an AI-powered software company building scalable, intelligent solutions. From Generative AI to predictive analytics — we engineer smarter systems for businesses across the globe.
 
-🌐 Visit us at [www.devantixlabs.com](https://www.devantixlabs.com)
+🌐 Visit us at <a href="https://www.devantixlabs.com" target="_blank">www.devantixlabs.com</a>
 
 ---
 
 ## 💡 What We Do
 
-- 🧠 **Generative AI** – Automate content, design, and code
-- 💬 **Conversational AI** – LLM-powered assistants for support and engagement
-- 🔍 **Natural Language Processing** – Chatbots, summarization, sentiment analysis
-- 📊 **Predictive Analytics** – Forecast demand, churn, KPIs
-- ⚙️ **Recommender Systems** – Tailor content and product experiences
-- 🖥 **Full Stack Development** – Cloud-ready apps engineered for AI integration
+- 🧠 <strong>Generative AI</strong> – Automate content, design, and code  
+- 💬 <strong>Conversational AI</strong> – LLM-powered assistants for support and engagement  
+- 🔍 <strong>Natural Language Processing</strong> – Chatbots, summarization, sentiment analysis  
+- 📊 <strong>Predictive Analytics</strong> – Forecast demand, churn, KPIs  
+- ⚙️ <strong>Recommender Systems</strong> – Tailor content and product experiences  
+- 🖥 <strong>Full Stack Development</strong> – Cloud-ready apps engineered for AI integration  
 
 ---
 
@@ -34,9 +34,9 @@ We are an AI-powered software company building scalable, intelligent solutions. 
 
 ## 🧑‍💼 Our Team
 
-- **Abdullah Dar** – Founder & Chief AI Architect  
-- **Qaisar Mateen** – Lead Machine Learning Engineer  
-- **Usman Faisal** – Head of Engineering  
+- <strong>Abdullah Dar</strong> – Founder & Chief AI Architect  
+- <strong>Qaisar Mateen</strong> – Lead Machine Learning Engineer  
+- <strong>Usman Faisal</strong> – Head of Engineering  
 
 ---
 
@@ -48,17 +48,17 @@ Vertex Mall, C Sector Commercial
 Bahria Town, Lahore
 
 **Email**  
-📧 [contact@devantixlabs.com](mailto:contact@devantixlabs.com)
+📧 <a href="mailto:contact@devantixlabs.com" target="_blank">contact@devantixlabs.com</a>
 
 ---
 
 ## 📱 Follow Us
 
-- [🔗 LinkedIn](https://www.linkedin.com/company/devantixlabs)
-- [📸 Instagram](https://www.instagram.com/devantixlabs)
-- [📘 Facebook](https://www.facebook.com/devantixlabs)
-- [🐦 X (Twitter)](https://x.com/devantixlabs)
+- <a href="https://www.linkedin.com/company/devantixlabs" target="_blank">🔗 LinkedIn</a>  
+- <a href="https://www.instagram.com/devantixlabs" target="_blank">📸 Instagram</a>  
+- <a href="https://www.facebook.com/devantixlabs" target="_blank">📘 Facebook</a>  
+- <a href="https://x.com/devantixlabs" target="_blank">🐦 X (Twitter)</a>
 
 ---
 
-> 🧠 *“Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”*
+> 🧠 <em>“Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”</em>
