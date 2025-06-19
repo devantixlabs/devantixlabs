@@ -12,9 +12,9 @@ We are an AI-powered software company building scalable, intelligent solutions. 
 
 - 🛠️ [Services](https://www.devantixlabs.com/#services)
 - 🧠 [Expertise](https://www.devantixlabs.com/#expertise)
-- 🏆 [Standards](https://www.devantixlabs.com/#standard)
+- 🏆 [Standard](https://www.devantixlabs.com/#standard)
 - 👨‍💼 [Team](https://www.devantixlabs.com/#team)
-- 📝 [Blogs](https://www.devantixlabs.com/blogs)
+- 📝 [Blogs](https://www.devantixlabs.com/#blogs)
 - 📬 [Contact](https://www.devantixlabs.com/contact)
 
 ---
