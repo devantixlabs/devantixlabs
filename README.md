@@ -4,18 +4,18 @@
 
 We are an AI-powered software company building scalable, intelligent solutions. From Generative AI to predictive analytics — we engineer smarter systems for businesses across the globe.
 
-🌐 Visit our website → [www.devantixlabs.com](https://www.devantixlabs.com)
+🌐 Visit us at [www.devantixlabs.com](https://www.devantixlabs.com)
 
 ---
 
-## 🔗 Pages
+## 💡 What We Do
 
-- 🛠️ [Services](https://www.devantixlabs.com/#services)
-- 🧠 [Expertise](https://www.devantixlabs.com/#expertise)
-- 🏆 [Standard](https://www.devantixlabs.com/#standard)
-- 👨‍💼 [Team](https://www.devantixlabs.com/#team)
-- 📝 [Blogs](https://www.devantixlabs.com/#blogs)
-- 📬 [Contact](https://www.devantixlabs.com/contact)
+- 🧠 **Generative AI** – Automate content, design, and code
+- 💬 **Conversational AI** – LLM-powered assistants for support and engagement
+- 🔍 **Natural Language Processing** – Chatbots, summarization, sentiment analysis
+- 📊 **Predictive Analytics** – Forecast demand, churn, KPIs
+- ⚙️ **Recommender Systems** – Tailor content and product experiences
+- 🖥 **Full Stack Development** – Cloud-ready apps engineered for AI integration
 
 ---
 
@@ -26,33 +26,39 @@ We are an AI-powered software company building scalable, intelligent solutions. 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## 💡 What We Do
-
-- 🧠 Generative AI – Automate content, design, and code
-- 💬 Conversational AI – LLM-powered assistants
-- 🔍 NLP – Chatbots, summarization, sentiment analysis
-- 📊 Predictive Analytics – Demand, churn, KPI forecasting
-- ⚙️ Recommender Systems – Personalized user experience
-- 🖥 Full Stack Dev – AI-integrated cloud apps
-
----
-
-## 🧑‍💼 Team
+## 🧑‍💼 Our Team
 
 - **Abdullah Dar** – Founder & Chief AI Architect  
 - **Qaisar Mateen** – Lead Machine Learning Engineer  
-- **Usman Faisal** – Head of Engineering
+- **Usman Faisal** – Head of Engineering  
 
 ---
 
 ## 📬 Contact Us
 
-**📍** Office #09, 3rd Floor, Vertex Mall, Bahria Town, Lahore  
-**📧** [contact@devantixlabs.com](mailto:contact@devantixlabs.com)
+**Address**  
+Devantix Labs, Office #09, 3rd Floor  
+Vertex Mall, C Sector Commercial  
+Bahria Town, Lahore
+
+**Email**  
+📧 [contact@devantixlabs.com](mailto:contact@devantixlabs.com)
 
 ---
 
-> 🧠 “Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”
+## 📱 Follow Us
+
+- [🔗 LinkedIn](https://www.linkedin.com/company/devantixlabs)
+- [📸 Instagram](https://www.instagram.com/devantixlabs)
+- [📘 Facebook](https://www.facebook.com/devantixlabs)
+- [🐦 X (Twitter)](https://x.com/devantixlabs)
+
+---
+
+> 🧠 *“Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”*
