@@ -54,6 +54,9 @@ Bahria Town, Lahore
 
 ## 📱 Follow Us
 
+
+
+
 - <a href="https://www.linkedin.com/company/devantixlabs" target="_blank">🔗 LinkedIn</a>  
 - <a href="https://www.instagram.com/devantixlabs" target="_blank">📸 Instagram</a>  
 - <a href="https://www.facebook.com/devantixlabs" target="_blank">📘 Facebook</a>  
