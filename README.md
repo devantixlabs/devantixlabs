@@ -12,6 +12,7 @@
 
 <hr>
 
+
 <h2>💡 What We Do</h2>
 <ul>
   <li>🧠 <strong>Generative AI</strong> – Automate content, design, and code</li>
