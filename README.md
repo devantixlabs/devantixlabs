@@ -12,7 +12,6 @@
 
 <hr>
 
-
 <h2>💡 What We Do</h2>
 <ul>
   <li>🧠 <strong>Generative AI</strong> – Automate content, design, and code</li>
@@ -74,3 +73,5 @@
 <p align="center">
   🧠 <em>“Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”</em>
 </p>
+
+
