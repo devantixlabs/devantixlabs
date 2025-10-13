@@ -68,8 +68,6 @@
   <li><a href="https://x.com/devantixlabs" target="_blank">🐦 X (Twitter)</a></li>
 </ul>
 
-
-
 <hr>
 
 <p align="center">
