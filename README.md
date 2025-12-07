@@ -68,13 +68,10 @@
   <li><a href="https://x.com/devantixlabs" target="_blank">🐦 X (Twitter)</a></li>
 </ul>
 
-
 <hr>
 
 <p align="center">
   🧠 <em>“Creating AI that empowers enterprises — intelligently, ethically, and beautifully.”</em>
 </p>
-
-
 
 
