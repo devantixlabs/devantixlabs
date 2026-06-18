@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:7c6cfa&height=200&section=header&text=Devantix%20AI%20Studio&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Engineering%20AI%20for%20a%20Smarter%20Tomorrow&descAlignY=58&descSize=16&descColor=c0d8f0" width="100%"/>
 
@@ -148,11 +148,6 @@ We don't just promise quality — we deliver state-of-the-art AI solutions that 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cfa,100:00c2ff&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
 
 
 
