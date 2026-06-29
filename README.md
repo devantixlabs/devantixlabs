@@ -148,15 +148,5 @@ We don't just promise quality — we deliver state-of-the-art AI solutions that 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6cfa,100:00c2ff&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
  
-
-
-
-
-
-
+ 
